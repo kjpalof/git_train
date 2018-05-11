@@ -1,2 +1,5 @@
 *.pdf
 con_data.cev
+.Rproj.user
+*Rproj
+*pdf
